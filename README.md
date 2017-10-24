@@ -1,5 +1,7 @@
 Commands to know
+---
 
+```sh
 # getting the list of the images
 $ docker images
 #REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
@@ -25,3 +27,4 @@ $ docker rmi <image-id>
 
 # deleting an container
 $ docker rm <container-id>
+```
